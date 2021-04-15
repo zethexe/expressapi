@@ -1,5 +1,8 @@
 # expressapi
 
+LOGIN
+	POST: /login
+
 CLASIFICACION
 	GET: /clasificacion/
 	GET por ID: /clasificacion/id/
